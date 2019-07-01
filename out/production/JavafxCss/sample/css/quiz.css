@@ -1,0 +1,13 @@
+.button{
+    -fx-border-color: rgb(128, 0, 0);
+    -fx-border-width: 10pt;
+}
+
+.root{
+    -fx-background-image: url("/sample/images/quiz.jpg");
+}
+
+.normal{
+    -fx-background-color: green;
+    -fx-cursor: hand;
+}

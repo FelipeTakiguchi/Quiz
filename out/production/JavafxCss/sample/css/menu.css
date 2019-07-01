@@ -1,0 +1,13 @@
+.root{
+    -fx-background-image: url("/sample/images/menu.jpg");
+}
+
+.normal{
+    -fx-background-color: green;
+    -fx-cursor: hand;
+}
+
+.font{
+    -fx-font-size: 60px;
+    -fx-font-color: red;
+}

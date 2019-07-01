@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="625.0" prefWidth="1000.0" styleClass="root" stylesheets="/sample/css/quiz.css" xmlns="http://javafx.com/javafx/8.0.999-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.control.Controller">
+    <children>
+        <Label layoutX="24.0" layoutY="130.0">
+            <font>
+                <Font size="26.0" />
+            </font>
+        </Label>
+        <Label fx:id="lbPergunta" layoutX="20.0" layoutY="40.0" prefHeight="120.0" prefWidth="950.0" wrapText="true" textFill="darkorange">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+
+        <fx:define>
+            <ToggleGroup fx:id="colorToggleGroup" />
+            <ToggleGroup fx:id="rbOpcoes" />
+        </fx:define>
+
+        <RadioButton fx:id="btA" layoutX="24.0" layoutY="161.0" toggleGroup="$colorToggleGroup" textFill="ghostwhite"/>
+        <RadioButton fx:id="btB" layoutX="24.0" layoutY="205.0" toggleGroup="$colorToggleGroup" textFill="ghostwhite"/>
+        <RadioButton fx:id="btC" layoutX="24.0" layoutY="257.0" toggleGroup="$colorToggleGroup" textFill="ghostwhite"/>
+        <RadioButton fx:id="btD" layoutX="24.0" layoutY="308.0" toggleGroup="$colorToggleGroup" textFill="ghostwhite"/>
+
+
+        <Button layoutX="99.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoPular" prefHeight="41.0" prefWidth="101.0" text="Pular" textFill="darkgoldenrod">
+            <font>
+                <Font size="18.0" />
+            </font></Button>
+        <Button layoutX="238.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoConfirmar" prefHeight="41.0" prefWidth="101.0" text="Confirmar" textFill="lime">
+            <font>
+                <Font size="15.0" />
+            </font></Button>
+        <Button fx:id="acaoDesistir" layoutX="376.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoDesistir" prefHeight="41.0" prefWidth="101.0" text="Desistir" textFill="red">
+            <font>
+                <Font size="18.0" />
+            </font></Button>
+    </children>
+</AnchorPane>

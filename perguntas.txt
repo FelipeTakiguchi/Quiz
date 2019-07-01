@@ -1,0 +1,62 @@
+10
+4
+Em um jogo de vôlei, os torcedores estavam acomodados em três áreas distintas do ginásio, demarcadas por cores diferentes. Na área verde havia 21 828 torcedores, na azul 12 100 e na amarela 32 072. Nesse jogo, apenas 20% do total de torcedores presentes no ginásio torciam pelo time que venceu a partida. Qual é o número de torcedores que torciam pelo time vencedor?
+13.200
+34.564
+23.458
+18.860
+1
+O resultado da conta 2‾√⋅8‾√
+5
+4
+8
+32
+2
+Para ligar a energia elétrica em seu apartamento, Felipe contratou um eletricista que mediu a distância do poste da rede elétrica até seu imóvel. Essa distância é representada pela expressão ( 250‾‾‾√+612‾‾‾√ )m. Para fazer a ligação, será necessário o dobro da medida fornecida pela expressão, já que serão necessários dois fios. Nessas condições, a quantidade aproximada de fio, em metros, que Felipe terá que comprar é de
+18,48
+32,00
+34,86
+38,00
+3
+A fração que corresponde ao número 0,56 é
+7/100
+14/25
+28/25
+28/100
+2
+Uma máquina fotográfica custava R$ 500,00. No dia dos pais, numa promoção, foi vendida com um desconto de 10% e, logo depois, em cima do novo preço sofreu um aumento de 10%. O seu preço atual, em reais, é
+R$450,00
+R$475,00
+R$495,00
+R$515,00
+3
+A rampa de um hospital tem na sua parte mais elevada uma altura de 2,2 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 3,2 metros e alcançou uma altura de 0,8 metro. A distância em metros que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é
+1,16 metros
+3,0 metros
+5,4 metros
+5,6 metros
+4
+Seja 𝑓(𝑥)=𝑎+2𝑏𝑥+𝑐, em que a, b e c são números reais. A imagem de 𝑓 é a semirreta ]−1,∞[ e o gráfico de 𝑓 intercepta os eixos coordenados nos pontos (1,0) e (0,-3/4). Então, o produto abc vale
+4
+2
+0
+-2
+1
+Cientistas da Nasa recalculam idade da estrela mais velha já descoberta. Cientistas da agência espacial americana (Nasa) recalcularam a idade da estrela mais velha já descoberta, conhecida como “Estrela Matusalém” ou HD 140283. Eles estimam que a estrela possua 14,5 bilhões de anos, com margem de erro de 0,8 bilhão para menos ou para mais, o que significa que ela pode ter de x a y bilhões de anos. De acordo com as informações do texto, a soma x + y é igual a:
+13,7
+15,0
+23,5
+29,0
+4
+Sejam 𝑓(𝑥)=2𝑥−9 e 𝑔(𝑥)=𝑥2+5𝑥+3. A soma dos valores absolutos das raízes da equação 𝑓(𝑔(𝑥))=𝑔(𝑥) é igual a
+4
+5
+6
+7
+4
+A média mensal de ovos postos pelas aves na Suécia são na proporção de 35 ovos por mês. O Sr. Thomas Dhalin, um pequeno proprietário do interior do país decidiu incrementar sua fazenda comprando um pato. Quantos ovos, de acordo com as estatísticas, ele terá comercializado ao final de um ano?
+420
+350
+0
+42
+3

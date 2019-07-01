@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="551.0" maxWidth="1000.0" minHeight="400.0" minWidth="600.0" prefHeight="400.0" prefWidth="600.0" styleClass="root" stylesheets="/sample/css/base.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.control.Inicio">
+
+    <children>
+        <Label layoutX="33.0" layoutY="160.0" prefHeight="60.0" prefWidth="180.0" text="Nickname" textFill="black">
+            <font>
+                <Font size="31.0" />
+            </font>
+        </Label>
+        <TextField fx:id="tfNome" layoutX="200.0" layoutY="160.0" maxWidth="-Infinity" prefHeight="20.0" prefWidth="500.0">
+            <font>
+                <Font size="31.0" />
+            </font></TextField>
+        <Button layoutX="720.0" layoutY="160.0" mnemonicParsing="false" onAction="#acaoCadastrar" prefHeight="60.0" prefWidth="240.0" text="Cadastro">
+            <font>
+                <Font size="25.0"/>
+            </font>
+        </Button>
+        <Button layoutX="350.0" layoutY="300.0" onAction="#sair" prefHeight="60.0" prefWidth="240.0" text="Sair" fx:id="btFechar" textFill="black">
+            <font>
+                <Font size="30.0"/>
+            </font>
+        </Button>
+    </children>
+</AnchorPane>

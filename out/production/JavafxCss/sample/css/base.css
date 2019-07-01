@@ -1,0 +1,18 @@
+.button{
+    -fx-border-color: rgb(28, 30, 70);
+    -fx-border-width: 3pt;
+}
+
+.root{
+    -fx-background-image: url("/sample/images/background.jpg");
+}
+
+.normal{
+    -fx-background-color: green;
+    -fx-cursor: hand;
+}
+
+.font{
+    -fx-font-size: 60px;
+    -fx-font-color: green;
+}
