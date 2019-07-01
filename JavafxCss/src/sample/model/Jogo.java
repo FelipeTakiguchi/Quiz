@@ -13,8 +13,8 @@ import java.util.ArrayList;
 
 public class Jogo extends Notifications {
 
-    private static String FILE_JOGADORES="C:\\Users\\felip\\IdeaProjects\\TrabQuiz\\jogadores.bin";
-    private static String FILE_PERGUNTAS="C:\\Users\\felip\\IdeaProjects\\TrabQuiz\\perguntas.txt";
+    private static String FILE_JOGADORES="jogadores.bin";
+    private static String FILE_PERGUNTAS="perguntas.txt";
 
     private ObservableList<Jogador> jogadores;
     private ObservableList<Pergunta> perguntas;
